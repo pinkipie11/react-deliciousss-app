@@ -4,7 +4,8 @@ React project from from developedbyed yt channel.
 
 To start create REACT_APP_API_KEY=https://spoonacular.com/food-api in .env file.
 
-![Screenshot (1)](https://user-images.githubusercontent.com/85274828/215038040-00f4e004-e79f-498e-b760-72598d90c817.png)
-![Screenshot (2)](https://user-images.githubusercontent.com/85274828/215038050-b67e91ed-220e-4e6f-ab5d-5476eab93568.png)
-![Screenshot (3)](https://user-images.githubusercontent.com/85274828/215038060-fb129107-9011-4100-a13a-4761c03775a1.png)
-![Screenshot (4)](https://user-images.githubusercontent.com/85274828/215038064-25019f18-1adc-4dcc-93d3-ed83cb2aade1.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/85274828/215038699-44ae7692-8844-49ba-8e0b-6ee52a3ff9df.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/85274828/215038707-c8fa5db2-dc76-4cf5-8360-2722b0c68db1.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/85274828/215038711-eda92cfa-569f-44d0-b359-35d7f0c6c76f.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/85274828/215038718-a500fc43-7da5-4ac7-ba5f-f3f45aef8df7.png)
+
